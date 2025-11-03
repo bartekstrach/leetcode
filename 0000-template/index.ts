@@ -1,0 +1,1 @@
+// Solution for 0000-template problem
