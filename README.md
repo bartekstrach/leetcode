@@ -3,6 +3,7 @@
 ## ✅ Solved problems
 - [198. House Robber](./0198-house-robber/README.md)
 - [208. Implement Trie](./0208-implement-trie/README.md)
+- [303. Range Sum Query - Immutable](./0303-range-sum-query-immutable/README.md)
 
 ## 🤖 AI prompts
 
