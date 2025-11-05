@@ -5,6 +5,7 @@
 - [208. Implement Trie](./0208-implement-trie/README.md)
 - [303. Range Sum Query - Immutable](./0303-range-sum-query-immutable/README.md)
 - [525. Contiguous Array](./0525-contiguous-array/README.md)
+- [560. Subarray sum equals `k`](./0560-subarray-sum-equals-k/README.md)
 
 ## 🤖 AI prompts
 
