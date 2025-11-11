@@ -1,6 +1,7 @@
 # ⚙️ LeetCode
 
 ## ✅ Solved problems
+- [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/README.md)
 - [11. Container with most water](./0011-container-with-most-water/README.md)
 - [15. 3Sum](./0015-3sum/README.md)
 - [167. Two Sum II](./0167-two-sum-ii/README.md)
