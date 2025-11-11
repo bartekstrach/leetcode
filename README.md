@@ -9,6 +9,7 @@
 - [303. Range Sum Query - Immutable](./0303-range-sum-query-immutable/README.md)
 - [525. Contiguous Array](./0525-contiguous-array/README.md)
 - [560. Subarray sum equals `k`](./0560-subarray-sum-equals-k/README.md)
+- [643. Maximum Average Subarray I](./0643-maximum-average-subarray-i/README.md)
 
 ## 🤖 AI prompts
 
