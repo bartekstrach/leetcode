@@ -9,6 +9,7 @@
 - [198. House Robber](./0198-house-robber/README.md)
 - [202. Happy Number](./0202-happy-number/README.md)
 - [208. Implement Trie](./0208-implement-trie/README.md)
+- [287. Find the Duplicate Number](./0287-find-the-duplicate-number/README.md)
 - [303. Range Sum Query - Immutable](./0303-range-sum-query-immutable/README.md)
 - [525. Contiguous Array](./0525-contiguous-array/README.md)
 - [560. Subarray sum equals `k`](./0560-subarray-sum-equals-k/README.md)
